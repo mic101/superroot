@@ -1,0 +1,2 @@
+# superroot
+su &amp; superuser
